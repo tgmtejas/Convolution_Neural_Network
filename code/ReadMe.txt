@@ -26,5 +26,3 @@ Please execute file in following order:
 
 13) Load skinny_main workspace and run 'TSNE_main' to get tSNE visualisation of skinny network
 
-Note: I am uploading this project on 4th April. I am using 2 days out of 3 late day policy
-      Also I have completed all 3 extra credit assignments, you can see results in project report.
